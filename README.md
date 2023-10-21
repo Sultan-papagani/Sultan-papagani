@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Sultan-papagani
 - 👀 I’m interested in sleeping
 
-- indie unity singleplayer/multiplayer(LAN) oyunları yapıyorum. 
+- Unity indie game developer
+- C#
+- C++
+- Python
 
 <!---
 Sultan-papagani/Sultan-papagani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
