@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sultan-papagani
 - 👀 I’m interested in sleeping
-
+- Yapıyoruz işte bişeyler 
 - Unity indie game developer
 - C#
 - C++
