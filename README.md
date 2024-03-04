@@ -4,6 +4,7 @@
 - C#
 - C++
 - Python
+- RTL-SDR
 
 <!---
 Sultan-papagani/Sultan-papagani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
