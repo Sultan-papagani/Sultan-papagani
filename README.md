@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sultan-papagani (Berkay Efe) </br>
+- 👋 Hi, I’m @Sultan-papagani (Berkay Efe Özben / TA2DMG) </br>
 contact me at: ttsmaildsultan@gmail.com
 
 <!---
